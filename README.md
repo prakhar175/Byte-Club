@@ -4,7 +4,7 @@
 
 <h1 align="center"><b>Empowering Health, Enabling Access – Bridging Gaps with AI </b></h1>
 
-## 📌 Introduction
+## <img src="https://res.cloudinary.com/mohitbhalotia/image/upload/v1739324285/aosxufgv5zkxxatvq1zy.png" alt="Upchar AI" width="22"> Introduction
 Upchar AI is revolutionizing rural healthcare by integrating AI-powered application with Ayushman Bharat Cards. This solution provides **affordable, accessible, and AI-driven** healthcare through cutting-edge technology and a user-friendly interface.
 
 ---
