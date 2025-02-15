@@ -5,7 +5,7 @@
 <h1 align="center"><b>Empowering Health, Enabling Access – Bridging Gaps with AI </b></h1>
 
 ## <img src="https://res.cloudinary.com/mohitbhalotia/image/upload/v1739324285/aosxufgv5zkxxatvq1zy.png" alt="Upchar AI" width="22"> Introduction
-Upchar AI is revolutionizing rural healthcare by integrating AI-powered application with Ayushman Bharat Cards. This solution provides **affordable, accessible, and AI-driven** healthcare through cutting-edge technology and a user-friendly interface.
+Upchar AI is revolutionizing healthcare by integrating AI-powered application with Ayushman Bharat Cards. This solution provides **affordable, accessible, and AI-driven** healthcare through cutting-edge technology and a user-friendly interface.
 
 ---
 
@@ -38,14 +38,15 @@ Upchar AI is revolutionizing rural healthcare by integrating AI-powered applicat
 
 ## <img src="https://res.cloudinary.com/mohitbhalotia/image/upload/v1739323388/cwbp5rcaandtpv53duxw.png" alt="Upchar AI" width="22">  Tech Stack
 - **AI Models:** MobileNet, PyTorch, OpenAI, Groq  
-- **Backend:** Python, MySQL  
+- **Backend:** Python, MySQL, neo4j  
 - **Frontend & UI/UX:** MERN Stack, Twilio, Vercel, Google Maps API, ZoomSDK  
 - **Language Support:** Devnagri for **multi-language accessibility**
 
 ---
 
 ## <img src="https://res.cloudinary.com/mohitbhalotia/image/upload/v1739323394/eesciqbsxui6jcyfnqeh.png" alt="Upchar AI" width="22">  Special Features  
-- **AI Chatbot**: Your personal **health assistant**.  
+- **AI Chatbot**: Your personal **health assistant**.
+- **AI Diagnostics**: Predicts diseases based on symptoms. 
 - **AI-Powered Disease Detection**: Uses a **MobileNet model** for disease identification.  
 - **Emergency SOS Button**: Instant emergency support.  
 - **Smart Medicine Management**: AI-based **medicine recommendations** & vending system.  
@@ -53,7 +54,7 @@ Upchar AI is revolutionizing rural healthcare by integrating AI-powered applicat
 ---
 
 ## <img src="https://res.cloudinary.com/mohitbhalotia/image/upload/v1739323391/h8lgduwgxx4jpuvjy2tf.png" alt="Upchar AI" width="22">  Future Enhancements
-- **AI Diagnostics**: Predicts diseases based on symptoms.  
+- **AI-Powered Disease Detection**: Uses a **MobileNet model** for disease identification.   
 - **ABHA Integration**: Allow users to **create & update** their ABHA details.  
 - **Audio Translation**: Support for multiple **regional languages**.  
 - **Text Translation**: Enhanced **text-based translation** for accessibility.  
